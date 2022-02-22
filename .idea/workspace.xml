@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01250b68-7222-4e7b-a28f-31607e6ec72f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24glrhVQJuGILT5UzumFlhbZetq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.addreview">
+    <configuration name="addreview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawlingbooks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/addreview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawlingbooks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fanpachong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawlingbooks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image/fanpachong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawlingbooks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.addreview" />
+        <item itemvalue="Python.crawl" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.fanpachong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01250b68-7222-4e7b-a28f-31607e6ec72f" name="Default Changelist" comment="" />
+      <created>1644060310617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644060310617</updated>
+      <workItem from="1644060313755" duration="14099000" />
+      <workItem from="1644083791244" duration="2227000" />
+      <workItem from="1644086406910" duration="2190000" />
+      <workItem from="1644091178849" duration="6884000" />
+      <workItem from="1644145834587" duration="31206000" />
+      <workItem from="1644329501583" duration="6715000" />
+      <workItem from="1644445367256" duration="853000" />
+      <workItem from="1645270655654" duration="17273000" />
+      <workItem from="1645471436637" duration="10206000" />
+      <workItem from="1645535049703" duration="8559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom" timestamp="1645564462078">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1792.1012/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1645382313208" />
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1645482912800" />
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom/0.25.1792.1012@0.25.1792.1012" timestamp="1645564462078" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1792.1016/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1644328750710" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center" timestamp="1645564462077">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1792.1012/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1645382313207" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1645482912799" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center/0.25.1792.1012@0.25.1792.1012" timestamp="1645564462077" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1792.1016/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1644328750710" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left" timestamp="1645564462077">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1792.1012/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1645382313206" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1645482912799" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left/0.25.1792.1012@0.25.1792.1012" timestamp="1645564462077" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1792.1016/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1644328750709" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right" timestamp="1645564462077">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1792.1012/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1645382313207" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1645482912800" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right/0.25.1792.1012@0.25.1792.1012" timestamp="1645564462077" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1792.1016/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1644328750710" />
+    <state width="1750" height="337" key="GridCell.Tab.1.bottom" timestamp="1644083777644">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.bottom/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644083777644" />
+    <state width="1750" height="337" key="GridCell.Tab.1.bottom/0.25.1792.1012@0.25.1792.1012" timestamp="1644066937476" />
+    <state width="1750" height="337" key="GridCell.Tab.1.center" timestamp="1644083777644">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.center/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644083777644" />
+    <state width="1750" height="337" key="GridCell.Tab.1.center/0.25.1792.1012@0.25.1792.1012" timestamp="1644066937476" />
+    <state width="1750" height="337" key="GridCell.Tab.1.left" timestamp="1644083777644">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.left/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644083777644" />
+    <state width="1750" height="337" key="GridCell.Tab.1.left/0.25.1792.1012@0.25.1792.1012" timestamp="1644066937476" />
+    <state width="1750" height="337" key="GridCell.Tab.1.right" timestamp="1644083777644">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state width="1750" height="337" key="GridCell.Tab.1.right/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644083777644" />
+    <state width="1750" height="337" key="GridCell.Tab.1.right/0.25.1792.1012@0.25.1792.1012" timestamp="1644066937476" />
+    <state x="740" y="127" key="SettingsEditor" timestamp="1644063332051">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="740" y="127" key="SettingsEditor/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644063332051" />
+    <state x="653" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1645535049870">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="-1220" y="319" key="com.intellij.ide.util.TipDialog/0.25.1792.1012/-1920.-32.1920.1055@-1920.-32.1920.1055" timestamp="1645270654745" />
+    <state x="653" y="362" key="com.intellij.ide.util.TipDialog/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644091178865" />
+    <state x="653" y="362" key="com.intellij.ide.util.TipDialog/0.25.1792.1012@0.25.1792.1012" timestamp="1645535049870" />
+    <state x="559" y="166" width="674" height="729" key="find.popup" timestamp="1644085270655">
+      <screen x="0" y="25" width="1792" height="1012" />
+    </state>
+    <state x="559" y="166" width="674" height="729" key="find.popup/0.25.1792.1012/-1920.-32.1920.1055@0.25.1792.1012" timestamp="1644085270655" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/crawlingbooks$addreview.coverage" NAME="addreview Coverage Results" MODIFIED="1645564462071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawlingbooks$fanpachong.coverage" NAME="fanpachong Coverage Results" MODIFIED="1644168206036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image" />
+    <SUITE FILE_PATH="coverage/crawlingbooks$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1645538177197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawlingbooks$test.coverage" NAME="test Coverage Results" MODIFIED="1645481697967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image" />
+  </component>
+</project>
